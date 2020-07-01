@@ -9,9 +9,11 @@
 
 ## Tentang YOTWIG
 
-YOTWIG adalah sebuah web service yang dapat membantu kamu mendapatkan konten video atau gambar dari Youtube, Twitter, atau Instagram
+YOTWIG adalah sebuah web service yang dapat membantu kamu mendapatkan konten video atau gambar dari Youtube, Twitter, atau Instagram.
 
-Dibuat menggunakan laravel framework <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
+Demo website dapat dilihat pada halaman <a href="https://yotwig.com" target="_blank">https://yotwig.com</a>
+
+Dibuat menggunakan Laravel Framework versi &nbsp; <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 
 
 ## Learning Laravel
