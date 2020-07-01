@@ -39,7 +39,7 @@
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
-			  <li class="nav-item"><a href="about.html" class="nav-link"><i class="fab fa-github fa-fw"></i></a></li>
+			  <li class="nav-item"><a href="https://github.com/mj3smile/yotwigapi" target="_blank" class="nav-link"><i class="fab fa-github fa-fw"></i></a></li>
 	            @if(Session::has('email'))
                 <li class="nav-item cta"><a href="{{url('user/profile')}}" class="nav-link"><span>{{Session::get('email')}}</span></a></li>
                 @else
@@ -284,7 +284,7 @@
 					    <!--/* This template is free as long as you keep the footer attribution link. If you'd like to use the template without the attribution link, you can buy the commercial license via our website: themes.3rdwavemedia.com Thank you for your support. :) */-->
 						<small>Copyright &copy; <a href="https://yotwig.com">yotwig</a> <script>document.write(new Date().getFullYear());</script> | Halaman ini dibuat dengan memodifikasi desain template dari <a href="http://themes.3rdwavemedia.com" target="_blank">Xiaoying Riley</a></small>
 				        <ul class="social-list list-unstyled pt-4 mb-0">
-						    <li class="list-inline-item"><a href="#"><i class="fab fa-github fa-fw"></i></a></li>
+						    <li class="list-inline-item"><a href="https://github.com/mj3smile/yotwigapi" target="_blank"><i class="fab fa-github fa-fw"></i></a></li>
 				        </ul><!--//social-list-->
 				    </div>
 			    </footer>
