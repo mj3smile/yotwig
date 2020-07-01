@@ -18,7 +18,7 @@ class GetController extends Controller
         $error_message = array(
             "Parameter yang diperlukan tidak diatur. Silahkan atur parameter berikut dan coba lagi: source, url, apikey",
             "Nilai parameter tidak valid. Silahkan atur parameter source dengan nilai berikut dan coba lagi: instagram, twitter, youtube",
-            "API key tidak valid atau telah expired. Silahkan generate api key baru."
+            "API key tidak valid atau telah expired. Silahkan coba lagi."
         );
 
         if (isset($_GET['url']) && isset($_GET['source']) && isset($_GET['apikey'])){

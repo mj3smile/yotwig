@@ -3,29 +3,17 @@ namespace App\Helpers\Twitter;
 
 use App\Helpers\Twitter\TwitterOAuth\TwitterOAuth;
 
-####
-	// $regex  = '#https?://twitter\.com/(?:\#!/)?(\w+)/status(es)?/(\d+)#is';
-	// $string = "https://twitter.com/ProZD/status/1248431798016565249?s=20";
-
-	// if (preg_match($regex, $string, $match)) {
-	// 	echo $match[3];
-	// }
-####
-
 class TwitterDownloader {
 
 	private $tweet_id;
 	private $tweet;
 
-	// API Connection Parameters.
 	private $consumer_key = "dob4Ba0uV2ldU2BXK3x4VdqhT";
 	private $consumer_secret_key = "yEJ9Z51GgaOqd5KN11iFJxrV27mnZy4GugbBHM7EETCG0hhNW6";
 
-	// My tokens created by using Twitter Applications page create my tokens.
 	private $access_token = "934412063614550017-nEqBWg0PQptmugRfoMwrH9FFhaEaHOj";
 	private $access_token_secret = "5zfOZT87j8jEicfxV4DGl9XQAHgcDu4mj3IH0ZoAP3t1V";
 
-	// Connection and getting permisions from API Connection parameters.
 	private $connection;
 	private $content;
 
@@ -62,7 +50,6 @@ class TwitterDownloader {
 	}
 
 	public function getTweetVideo(){
-		// $tweet = $this->getTweetInfo($this->connection, $this->tweet_id);
 		$sizeOfArray = count($this->tweet->extended_entities->media[0]->video_info->variants);
 
 		$videoUrls = Array();

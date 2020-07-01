@@ -101,8 +101,7 @@
 						<p>Bila telah memiliki akun YOTWIG, anda bisa mendapatkan API key melalui dashboard user dengan menekan tombol <span style="padding: 0.3rem; font-size: 0.7rem;" class="btn btn-success">Buat API key baru</span> pada halaman utama dashboard user.</p>
 						<h5>Panduan mendapatkan API key melalui dashboard user:</h5>
 						<figure class="figure docs-figure py-3">
-							<a href="{{url('assets/dokumentasi/images/features/appify-theme-projects-overview-lg.jpg')}}" data-title="Image Lightbox Example" data-toggle="lightbox"><img class="figure-img img-fluid shadow rounded" src="{{url('assets/dokumentasi/images/features/appify-add-members.gif')}}" alt="" style="width: 600px;"></a>
-							<figcaption class="figure-caption mt-3"><i class="fas fa-info-circle mr-2"></i>Credit: Screencast diatas diambil menggunakan <a  class="theme-link" href="https://themes.3rdwavemedia.com/bootstrap-templates/product/appify-bootstrap-4-admin-template-for-app-developers/" target="_blank"><i class="fas fa-external-link-alt"></i>Appify theme</a>.</figcaption>
+							<a href="{{url('assets/dokumentasi/images/features/buatapikeybaru.gif')}}"><img class="figure-img img-fluid shadow rounded" src="{{url('assets/dokumentasi/images/features/buatapikeybaru.gif')}}" alt="" style="width: 600px;"></a>
 						</figure>
 					</section><!--//section-->
 
@@ -264,41 +263,19 @@
 				    <header class="docs-header">
 					    <h1 class="docs-heading">FAQs</h1>
 					    <section class="docs-intro">
-						    <p>Section intro goes here. You can list all your FAQs using the format below.</p>
+						    <p>Bantuan</p>
 						</section><!--//docs-intro-->
 				    </header>
 				     <section class="docs-section" id="item-4-1">
-						<h2 class="section-heading">Section Item 4.1 <small>(FAQ Category One)</small></h2>
-						<h5 class="pt-3"><i class="fas fa-question-circle mr-1"></i>What's sit amet quam eget lacinia?</h5>
-						<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.</p>
-						<h5 class="pt-3"><i class="fas fa-question-circle mr-1"></i>How to ipsum dolor sit amet quam tortor?</h5>
-						<p>Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. </p>
-						<h5 class="pt-3"><i class="fas fa-question-circle mr-1"></i>Can I  bibendum sodales?</h5>
-						<p>Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. </p>
-						<h5 class="pt-3"><i class="fas fa-question-circle mr-1"></i>Where arcu sed urna gravida?</h5>
-						<p>Aenean et sodales nisi, vel efficitur sapien. Quisque molestie diam libero, et elementum diam mollis ac. In dignissim aliquam est eget ullamcorper. Sed id sodales tortor, eu finibus leo. Vivamus dapibus sollicitudin justo vel fermentum. Curabitur nec arcu sed urna gravida lobortis. Donec lectus est, imperdiet eu viverra viverra, ultricies nec urna. </p>
+
 					</section><!--//section-->
 
 					<section class="docs-section" id="item-4-2">
-						<h2 class="section-heading">Section Item 4.2 <small>(FAQ Category Two)</small></h2>
-						<h5 class="pt-3"><i class="fas fa-question-circle mr-1"></i>What's sit amet quam eget lacinia?</h5>
-						<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.</p>
-						<h5 class="pt-3"><i class="fas fa-question-circle mr-1"></i>How to ipsum dolor sit amet quam tortor?</h5>
-						<p>Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. </p>
-						<h5 class="pt-3"><i class="fas fa-question-circle mr-1"></i>Can I  bibendum sodales?</h5>
-						<p>Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. </p>
-						<h5 class="pt-3"><i class="fas fa-question-circle mr-1"></i>Where arcu sed urna gravida?</h5>
-						<p>Aenean et sodales nisi, vel efficitur sapien. Quisque molestie diam libero, et elementum diam mollis ac. In dignissim aliquam est eget ullamcorper. Sed id sodales tortor, eu finibus leo. Vivamus dapibus sollicitudin justo vel fermentum. Curabitur nec arcu sed urna gravida lobortis. Donec lectus est, imperdiet eu viverra viverra, ultricies nec urna. </p>
+
 					</section><!--//section-->
 
 					<section class="docs-section" id="item-4-3">
-							<h2 class="section-heading">Section Item 4.3 <small>(FAQ Category Three)</small></h2>
-						    <h5 class="pt-3"><i class="fas fa-question-circle mr-1"></i>How to dapibus sollicitudin justo vel fermentum?</h5>
-							<p>Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. </p>
-							<h5 class="pt-3"><i class="fas fa-question-circle mr-1"></i>How long bibendum sodales?</h5>
-							<p>Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. </p>
-							<h5 class="pt-3"><i class="fas fa-question-circle mr-1"></i>Where dapibus sollicitudin?</h5>
-							<p>Aenean et sodales nisi, vel efficitur sapien. Quisque molestie diam libero, et elementum diam mollis ac. In dignissim aliquam est eget ullamcorper. Sed id sodales tortor, eu finibus leo. Vivamus dapibus sollicitudin justo vel fermentum. Curabitur nec arcu sed urna gravida lobortis. Donec lectus est, imperdiet eu viverra viverra, ultricies nec urna. </p>
+
 					</section><!--//section-->
 			    </article><!--//docs-article-->
 
