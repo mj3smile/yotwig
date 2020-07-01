@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/mj3smile/yotwigapi/master/public/assets/dokumentasi/images/brand.png" width="400"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/mj3smile/yotwigapi/master/public/assets/dokumentasi/images/brand.png" width="250"></p>
 
 ## Tentang YOTWIG
 
