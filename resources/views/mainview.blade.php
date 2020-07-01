@@ -142,8 +142,6 @@
 	    </div>
     </section><!--//cta-section-->
 
-
-
     <footer class="footer">
 
 	    <div class="footer-bottom text-center py-5">
